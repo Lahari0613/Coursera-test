@@ -37,14 +37,14 @@ body{
   text-align: center;
 }
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #F7F6F8;
 }
 #nav-list a span {
   font-size: 1.8em;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid #F7F6F8;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
